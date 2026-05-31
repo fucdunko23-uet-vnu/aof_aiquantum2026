@@ -1,0 +1,22 @@
+# AI-Quantum Portfolio Optimizer using QAOA
+# Compatibility verified for Python 3.9 - 3.11
+
+# Core Quantum Computing Stack (Qiskit 1.x compatibility)
+qiskit>=1.0.0
+qiskit-algorithms>=0.3.0
+qiskit-optimization>=0.6.0
+qiskit-finance>=0.4.0
+
+# Web Application Framework
+streamlit>=1.30.0
+
+# Financial Data & Processing
+yfinance>=0.2.35
+pandas>=2.0.0
+numpy>=1.23.5,<2.0.0
+scipy>=1.10.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.18.0
